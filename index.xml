@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kotomiya.it</title>
-    <link>https://kotomiya.gihub.io/</link>
+    <link>https://kotomiya.github.io/</link>
     <description>Recent content on kotomiya.it</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 17 Nov 2018 00:30:11 +0900</lastBuildDate>
     
-	<atom:link href="https://kotomiya.gihub.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kotomiya.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://kotomiya.gihub.io/about/</link>
+      <link>https://kotomiya.github.io/about/</link>
       <pubDate>Sat, 17 Nov 2018 00:30:11 +0900</pubDate>
       
-      <guid>https://kotomiya.gihub.io/about/</guid>
+      <guid>https://kotomiya.github.io/about/</guid>
       <description> 経歴  1992 - 誕生
  2014 - 大学卒業
  2016 - 大学院卒業
@@ -34,10 +34,10 @@ ChatBot開発 Golang, C#
     
     <item>
       <title>Helloworld</title>
-      <link>https://kotomiya.gihub.io/post/helloworld/</link>
+      <link>https://kotomiya.github.io/post/helloworld/</link>
       <pubDate>Sat, 17 Nov 2018 00:30:06 +0900</pubDate>
       
-      <guid>https://kotomiya.gihub.io/post/helloworld/</guid>
+      <guid>https://kotomiya.github.io/post/helloworld/</guid>
       <description>Hello world!
 kotomiyaと申します。
 しがないエンジニアですが、どうぞよろしくお願いいたします。</description>

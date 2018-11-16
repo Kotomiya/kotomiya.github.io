@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kotomiya.gihub.io/about/</loc>
+    <loc>https://kotomiya.github.io/about/</loc>
     <lastmod>2018-11-17T00:30:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kotomiya.gihub.io/post/helloworld/</loc>
+    <loc>https://kotomiya.github.io/post/helloworld/</loc>
     <lastmod>2018-11-17T00:30:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kotomiya.gihub.io/post/</loc>
+    <loc>https://kotomiya.github.io/post/</loc>
     <lastmod>2018-11-17T00:30:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotomiya.gihub.io/tags/</loc>
+    <loc>https://kotomiya.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotomiya.gihub.io/topics/</loc>
+    <loc>https://kotomiya.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotomiya.gihub.io/</loc>
+    <loc>https://kotomiya.github.io/</loc>
     <lastmod>2018-11-17T00:30:11+09:00</lastmod>
     <priority>0</priority>
   </url>
