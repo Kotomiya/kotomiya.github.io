@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kotomiya.it</title>
+    <link>https://kotomiya.gihub.io/</link>
+    <description>Recent content on kotomiya.it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Nov 2018 00:30:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://kotomiya.gihub.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://kotomiya.gihub.io/about/</link>
+      <pubDate>Sat, 17 Nov 2018 00:30:11 +0900</pubDate>
+      
+      <guid>https://kotomiya.gihub.io/about/</guid>
+      <description> 経歴  1992 - 誕生
+ 2014 - 大学卒業
+ 2016 - 大学院卒業
+ 2016 - 某IT企業入社
+ 2018 - 現在
+  お仕事 バックエンド開発 Golang, MySQL, React(少し)
+Office365 ツール開発 Golang, Powershell
+ChatBot開発 Golang, C#
+好きな本  デッドライン   &amp;ldquo;プレッシャーをかけても思考は速くならない。&amp;rdquo;
+  コンサルタントの秘密   &amp;ldquo;一見どう見えようとも、それはつねに人の問題である。&amp;rdquo;
+&amp;ldquo;第一番の問題を取り除くと、第二番が昇進する。&amp;rdquo;
+&amp;ldquo;ものごとがそうなっているのは、そうなったからだ。&amp;rdquo;
+  Team Geek   &amp;ldquo;HRT原則&amp;rdquo;
+ </description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://kotomiya.gihub.io/post/helloworld/</link>
+      <pubDate>Sat, 17 Nov 2018 00:30:06 +0900</pubDate>
+      
+      <guid>https://kotomiya.gihub.io/post/helloworld/</guid>
+      <description>Hello world!
+kotomiyaと申します。
+しがないエンジニアですが、どうぞよろしくお願いいたします。</description>
+    </item>
+    
+  </channel>
+</rss>
